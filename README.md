@@ -24,4 +24,4 @@ I automate builds, deployments and cloud infrastructure. I work as a DevOps Engi
 DevOps basics, AWS, Docker, Linux, Git and GitHub
 
 ## 📫 Connect
-[LinkedIn](https://www.linkedin.com/in/vishaalmeenaa) | [vishalmeena2169@gmail.com](mailto:vishalmeena2169@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vishaalmeenaa) | [GitHub](https://github.com/vishaalmeenaa) | [vishalmeena2169@gmail.com](mailto:vishalmeena2169@gmail.com)
